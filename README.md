@@ -14,7 +14,7 @@
 
 ### Analysis of Outcomes Based on Goals 
 
-- Used Kickstarter data from 2009 to 2017 to create a table looking at Plays Kickstarters and organized the data based on the outcomes (successful, failed, canceled) and grouped them by different goal levels. A line graph showing this data can be found here: ![Outcomes vs Goals](/Resources/Outcomes vs Goals.png). 
+- Used Kickstarter data from 2009 to 2017 to create a table looking at Plays Kickstarters and organized the data based on the outcomes (successful, failed, canceled) and grouped them by different goal levels. A line graph showing this data can be found here: ![Outcomes vs Goals](/Resources/"Outcomes vs Goals.png"). 
 
 ### Challenges and Difficulties Encountered 
 
